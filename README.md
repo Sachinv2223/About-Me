@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Varghese
 - 👀 Just a new comer to this coding world
-- 🌱 I’m currently learning java, springboot web applications and also few other related topics
+- 🌱 I’m currently learning Angular, HTML, CSS, Js, Java, Springboot web applications and also few other related topics
 - 📫 You can reach me on my E-mail Id : sachinv2223@outlook.com
 
 <!---
